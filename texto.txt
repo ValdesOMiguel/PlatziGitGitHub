@@ -14,3 +14,6 @@ Haremos otra edicion de esta cosa sin tener mucho sentido.
 Solo estamos siguiendo los ejercicios de la clase.
 
 Here we go again
+
+
+Este sera un nuevo commit, solo es necesario para ver como se comporta el comando show
